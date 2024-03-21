@@ -5,14 +5,23 @@ Input|Zero-DCE|EnlightenGAN|IAT|LCDPNet|**Ours**|GT|
 
 <table>
   <tr>
-    <th style="width: 33%;">열 1</th>
-    <th style="width: 33%;">열 2</th>
-    <th style="width: 33%;">열 3</th>
+    <th style="width: 14%;">Input</th>
+    <th style="width: 14%;">Zero-DCE</th>
+    <th style="width: 14%;">EnlightenGAN</th>
+    <th style="width: 14%;">IAT</th>
+    <th style="width: 14%;">LCDPNet</th>
+    <th style="width: 14%;"><b>Ours</b>b</th>
+    <th style="width: 14%;">GT</th>
+    
   </tr>
   <tr>
-    <td>내용 1</td>
-    <td>내용 2</td>
-    <td>내용 3</td>
+    <td><img src="./outputs/107_input.png"></td>
+    <td><img src="./outputs/107_zero.png"></td>
+    <td><img src="./outputs/107_engan.png"></td>
+    <td><img src="./outputs/107_iat.png"></td>
+    <td><img src="./outputs/107_lcdp.png"></td>
+    <td><img src="./outputs/107_ours.png"></td>
+    <td><img src="./outputs/107_gt.png"></td>
   </tr>
 </table>
 
