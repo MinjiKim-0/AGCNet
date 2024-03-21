@@ -1,8 +1,14 @@
 ## 🤓 Qualitive comparison
-Input|Zero-DCE|EnlightenGAN|IAT|LCDPNet|**Ours**|GT|
+`   Input `|Zero-DCE|EnlightenGAN|IAT|LCDPNet|**Ours**|GT|
 ---|---|---|---|---|---|---|
 <p align="center">
-  Input Zero-DCE EnlightenGAN IAT LCDPNEt Ours GT
+  <img src="./outputs/107_input.png" align="center" width="13%">  
+  <img src="./outputs/107_zero.png" align="center" width="13%">  
+  <img src="./outputs/107_engan.png" align="center" width="13%">  
+  <img src="./outputs/107_iat.png" align="center" width="13%">
+  <img src="./outputs/107_lcdp.png" align="center" width="13%">
+  <img src="./outputs/107_ours.png" align="center" width="13%">
+  <img src="./outputs/107_gt.png" align="center" width="13%">
 </p>
 <p align="center">
   <img src="./outputs/107_input.png" align="center" width="13%">  
