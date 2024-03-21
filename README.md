@@ -1,6 +1,9 @@
 ## 🤓 Qualitive comparison
-`    Input   `|`  Zero-DCE  `|`EnlightenGAN`|`     IAT    `|`   LCDPNet  `|`    Ours    `|`     GT     `|
----|---|---|---|---|---|---|
+|`    Input   `|`  Zero-DCE  `|`EnlightenGAN`|`     IAT    `|`   LCDPNet  `|`    Ours    `|`     GT     `|
+|---|---|---|---|---|---|---|
+|![lab_logo](./outputs/107_input.png)|[lab_logo](./outputs/107_zero.png)|[lab_logo](./outputs/107_engan.png)|[lab_logo](./outputs/107_iat.png)|[lab_logo](./outputs/107_lcdp.png)|[lab_logo](./outputs/107_ours.png)|[lab_logo](./outputs/107_gt.png)|
+
+
 <p align="center">
   <img src="./outputs/107_input.png" align="center" width="13%">  
   <img src="./outputs/107_zero.png" align="center" width="13%">  
