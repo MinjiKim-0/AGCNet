@@ -9,8 +9,17 @@ Input|Zero-DCE|EnlightenGAN|IAT|LCDPNet|**Ours**|GT|
   <img src="./outputs/107_lcdp.png" align="center" width="13%">
   <img src="./outputs/107_ours.png" align="center" width="13%">
   <img src="./outputs/107_gt.png" align="center" width="13%">
-  <figcaption align="center">3개 이미지 띄우기
-  </figcaption>
+</p>
+<p align="center">
+  <img src="./outputs/107_input.png" align="center" width="13%">  
+  <figcaption> 주석 내용 </figcaption>
+  <img src="./outputs/107_zero.png" align="center" width="13%">  
+  <figcaption> 주석 내용 </figcaption>
+  <img src="./outputs/107_engan.png" align="center" width="13%">  
+  <img src="./outputs/107_iat.png" align="center" width="13%">
+  <img src="./outputs/107_lcdp.png" align="center" width="13%">
+  <img src="./outputs/107_ours.png" align="center" width="13%">
+  <img src="./outputs/107_gt.png" align="center" width="13%">
 </p>
 
 
