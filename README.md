@@ -25,13 +25,13 @@ Input|Zero-DCE|EnlightenGAN|IAT|LCDPNet|**Ours**|GT|
   </tr>
 </table>
 <p align="center">
-  <img src="./outputs/107_input.png" align="center" width="14%">  
-  <img src="./outputs/107_zero.png" align="center" width="14%">  
-  <img src="./outputs/107_engan.png" align="center" width="14%">  
-  <img src="./outputs/107_iat.png" align="center" width="14%">
-  <img src="./outputs/107_lcdp.png" align="center" width="14%">
-  <img src="./outputs/107_ours.png" align="center" width="14%">
-  <img src="./outputs/107_gt.png" align="center" width="14%">
+  <img src="./outputs/107_input.png" align="center" width="13%">  
+  <img src="./outputs/107_zero.png" align="center" width="13%">  
+  <img src="./outputs/107_engan.png" align="center" width="13%">  
+  <img src="./outputs/107_iat.png" align="center" width="13%">
+  <img src="./outputs/107_lcdp.png" align="center" width="13%">
+  <img src="./outputs/107_ours.png" align="center" width="13%">
+  <img src="./outputs/107_gt.png" align="center" width="13%">
   <figcaption align="center">3개 이미지 띄우기
   </figcaption>
 </p>
