@@ -26,15 +26,6 @@
 
 ![Our model](https://hywang99.github.io/images/lcdpnet/arch.png)
 
-
-## ⚙️ Setup
-
-1. Clone `git clone https://github.com/onpix/LCDPNet.git`
-2. Go to directory `cd LCDPNet`
-3. Install required packages `pip install -r requirements.txt`
-
-We also provide `env.yaml` for quickly installing packages. Note that you may need to modify the env name to prevent overwriting your existing enviroment, or modify cudatoolkit and cudnn version in `env.yaml` to match your local cuda version.
-
 ## 📂 Dataset & Pretrained Model
 
 The LCDP Dataset is here: [[Google drive]](https://drive.google.com/drive/folders/10Reaq-N0DiZiFpSrZ8j5g3g0EJes4JiS?usp=sharing). Please unzip `lcdp_dataset.7z`. The training and test images are:
