@@ -15,13 +15,13 @@ Input|Zero-DCE|EnlightenGAN|IAT|LCDPNet|**Ours**|GT|
     
   </tr>
   <tr>
-    <td><img src="./outputs/107_input.png" width="14%"></td>
-    <td><img src="./outputs/107_zero.png" width="14%"></td>
-    <td><img src="./outputs/107_engan.png width="14%""></td>
-    <td><img src="./outputs/107_iat.png" width="14%"></td>
-    <td><img src="./outputs/107_lcdp.png" width="14%"></td>
-    <td><img src="./outputs/107_ours.png" width="14%"></td>
-    <td><img src="./outputs/107_gt.png" width="14%"></td>
+    <td><img src="./outputs/107_input.png" width="50%"></td>
+    <td><img src="./outputs/107_zero.png" width="50%"></td>
+    <td><img src="./outputs/107_engan.png" width="50%"></td>
+    <td><img src="./outputs/107_iat.png" width="50%"></td>
+    <td><img src="./outputs/107_lcdp.png" width="50%"></td>
+    <td><img src="./outputs/107_ours.png" width="50%"></td>
+    <td><img src="./outputs/107_gt.png" width="50%"></td>
   </tr>
 </table>
 
