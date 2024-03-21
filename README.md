@@ -1,5 +1,5 @@
 ## 🤓 Qualitive comparison
-Input|Zero-DCE|EnlightenGAN|IAT|LCDP|**Ours**|GT|
+Input       |Zero-DCE    |EnlightenGAN|IAT         |LCDP        |**Ours**        |GT          |
 ---|---|---|---|---|---|---|
 ![lab_logo](./outputs/107_input.png) | ![lab_logo](./outputs/107_zero.png) | ![lab_logo](./outputs/107_engan.png) | ![lab_logo](./outputs/107_iat.png) | ![lab_logo](./outputs/107_lcdp.png) | ![lab_logo](./outputs/107_ours.png) | ![lab_logo](./outputs/107_gt.png)
 
