@@ -14,9 +14,10 @@
 | Zero-DCE      | 0.254   | 0.512   | 0.756   | 17.383   |
 | EnlightenGAN  | 0.231   | 0.500   | 0.768   | 19.187   |
 | IAT           | 0.294   | 0.121   | 0.754   | 20.913   |
-| LCDP          | 0.160   | 0.565   | 0.842   | 23.239   |
-| Ours          | 0.157   | 0.567   | 0.832   | 20.942   |
+| LCDP          | 0.160   | 0.565   |<span style="color:red">0.842</span>|<span style="color:red">23.239</span>|
+| Ours          |<span style="color:red">0.157</span>|<span style="color:red">0.567</span>| 0.832   | 20.942   |
 
+<span style="color:red">빨간 글씨</span>
 ## 🔥 Our Model
 
 ![Our model](https://hywang99.github.io/images/lcdpnet/arch.png)
