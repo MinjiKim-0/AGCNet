@@ -1,29 +1,6 @@
 ## 🤓 Qualitive comparison
 Input|Zero-DCE|EnlightenGAN|IAT|LCDPNet|**Ours**|GT|
 ---|---|---|---|---|---|---|
-![lab_logo](./outputs/107_input.png) | ![lab_logo](./outputs/107_zero.png) | ![lab_logo](./outputs/107_engan.png) | ![lab_logo](./outputs/107_iat.png) | ![lab_logo](./outputs/107_lcdp.png) | ![lab_logo](./outputs/107_ours.png) | ![lab_logo](./outputs/107_gt.png)
-
-<table>
-  <tr>
-    <th style="width: 14%;">Input</th>
-    <th style="width: 14%;">Zero-DCE</th>
-    <th style="width: 14%;">EnlightenGAN</th>
-    <th style="width: 14%;">IAT</th>
-    <th style="width: 14%;">LCDPNet</th>
-    <th style="width: 14%;"><b>Ours</b></th>
-    <th style="width: 14%;">GT</th>
-    
-  </tr>
-  <tr>
-    <td><img src="./outputs/107_input.png" width="50%"></td>
-    <td><img src="./outputs/107_zero.png" width="50%"></td>
-    <td><img src="./outputs/107_engan.png" width="50%"></td>
-    <td><img src="./outputs/107_iat.png" width="50%"></td>
-    <td><img src="./outputs/107_lcdp.png" width="50%"></td>
-    <td><img src="./outputs/107_ours.png" width="50%"></td>
-    <td><img src="./outputs/107_gt.png" width="50%"></td>
-  </tr>
-</table>
 <p align="center">
   <img src="./outputs/107_input.png" align="center" width="13%">  
   <img src="./outputs/107_zero.png" align="center" width="13%">  
