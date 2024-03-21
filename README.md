@@ -35,19 +35,6 @@
 
 We also provide `env.yaml` for quickly installing packages. Note that you may need to modify the env name to prevent overwriting your existing enviroment, or modify cudatoolkit and cudnn version in `env.yaml` to match your local cuda version.
 
-## ⌨️ How to run
-
-To train our model:
-
-1. Prepare data: Modify `src/config/ds/train.yaml` and `src/config/ds/valid.yaml`.
-2. Modify configs in `src/config`. Note that we use `hydra` for config management.
-3. Run: `python src/train.py name=<experiment_name> num_epoch=200 log_every=2000 valid_every=20`
-
-To test our model:
-
-1. Prepare data: Modify `src/config/ds/test.yaml`
-2. Run: `python src/test.py checkpoint_path=<file_path>`
-
 ## 📂 Dataset & Pretrained Model
 
 The LCDP Dataset is here: [[Google drive]](https://drive.google.com/drive/folders/10Reaq-N0DiZiFpSrZ8j5g3g0EJes4JiS?usp=sharing). Please unzip `lcdp_dataset.7z`. The training and test images are:
