@@ -44,15 +44,4 @@ We provide the two pretrained models: `pretrained_models/trained_on_ours.ckpt` a
 
 Our model is lightweight. Experiments show that increasing model size will further improve the quality of the results. To train a bigger model, increase the values in `runtime.bilateral_upsample_net.hist_unet.channel_nums`.
 
-## 🔗 Cite This Paper
-
-If you find our work or code helpful, or your research benefits from this repo, please cite our paper:
-
-```bibtex
-@inproceedings{wang2022lcdp,
-    title =        {Local Color Distributions Prior for Image Enhancement},
-    author =       {Haoyuan Wang, Ke Xu, and Rynson W.H. Lau},
-    booktitle =    {Proceedings of the European Conference on Computer Vision (ECCV)},
-    year =         {2022}
-}
 ```
