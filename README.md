@@ -21,7 +21,7 @@ Exposure correction plays a crucial role in computer vision, influencing the qua
 
 ## 🔥 Our Model
 
-![Our model](https://hywang99.github.io/images/lcdpnet/arch.png)
+![lab_logo](./model_architecture.png)
 
 ## 📂 Dataset
 
