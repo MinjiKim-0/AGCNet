@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/local-color-distributions-prior-for-image/image-enhancement-on-exposure-errors" alt="PWC" />
     </a>
 
-  [`🌐 Website`](https://whyy.site/paper/lcdp) &nbsp;&centerdot;&nbsp; [`📃 Paper`](https://www.cs.cityu.edu.hk/~rynson/papers/eccv22b.pdf) &nbsp;&centerdot;&nbsp; [`🗃️ Dataset`](https://drive.google.com/drive/folders/10Reaq-N0DiZiFpSrZ8j5g3g0EJes4JiS?usp=sharing)
 </div>
 
 
