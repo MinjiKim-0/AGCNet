@@ -2,13 +2,7 @@
 Input|Zero-DCE|EnlightenGAN|IAT|LCDPNet|**Ours**|GT|
 ---|---|---|---|---|---|---|
 <p align="center">
-  <p>dff</p>
-  <p>dff</p>
-  <p>dff</p>
-  <p>dff</p>
-  <p>dff</p>
-  <p>dff</p>
-  <p>dff</p>
+  Input Zero-DCE EnlightenGAN IAT LCDPNEt Ours GT
 </p>
 <p align="center">
   <img src="./outputs/107_input.png" align="center" width="13%">  
