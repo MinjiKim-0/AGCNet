@@ -10,7 +10,7 @@ Input|Zero-DCE|EnlightenGAN|IAT|LCDPNet|**Ours**|GT|
     <th style="width: 14%;">EnlightenGAN</th>
     <th style="width: 14%;">IAT</th>
     <th style="width: 14%;">LCDPNet</th>
-    <th style="width: 14%;"><b>Ours</b>b</th>
+    <th style="width: 14%;"><b>Ours</b></th>
     <th style="width: 14%;">GT</th>
     
   </tr>
@@ -24,6 +24,13 @@ Input|Zero-DCE|EnlightenGAN|IAT|LCDPNet|**Ours**|GT|
     <td><img src="./outputs/107_gt.png" width="50%"></td>
   </tr>
 </table>
+<p align="center">
+  <img src="./outputs/107_input.png" align="center" width="32%">  
+  <img src="./outputs/107_zero.png" align="center" width="32%">  
+  <img src="./outputs/107_engan.png" align="center" width="32%">  
+  <figcaption align="center">3개 이미지 띄우기
+  </figcaption>
+</p>
 
 
 **Abstract:** 
