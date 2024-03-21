@@ -14,14 +14,6 @@
 
 **Abstract:** Existing image enhancement methods are typically designed to address either the over- or under-exposure problem in the input image. When the illumination of the input image contains both over- and under-exposure problems, these existing methods may not work well. We observe from the image statistics that the local color distributions (LCDs) of an image suffering from both problems tend to vary across different regions of the image, depending on the local illuminations. Based on this observation, we propose in this paper to exploit these LCDs as a prior for locating and enhancing the two types of regions (i.e., over-/under-exposed regions). First, we leverage the LCDs to represent these regions, and propose a novel local color distribution embedded (LCDE) module to formulate LCDs in multi-scales to model the correlations across different regions. Second, we propose a dual-illumination learning mechanism to enhance the two types of regions. Third, we construct a new dataset to facilitate the learning process, by following the camera image signal processing (ISP) pipeline to render standard RGB images with both under-/over-exposures from raw data. Extensive experiments demonstrate that the proposed method outperforms existing state-of-the-art methods quantitatively and qualitatively.
 
-## 📻 News
-
-- 2023.7.21: if you have an interest in low-light enhancement and NeRF, please check out my latest ICCV2023 work, [LLNeRF](https://github.com/onpix/LLNeRF) ! 🔥🔥🔥
-- 2023.7.21: Update README
-- 2023.2.7: Merge `tar.gz` files of our dataset to a single `7z` file.
-- 2023.2.8: Update packages version in `requirements.txt`.
-- 2023.2.8: Upload `env.yaml`.
-
 ## 🔥 Our Model
 
 ![Our model](https://hywang99.github.io/images/lcdpnet/arch.png)
