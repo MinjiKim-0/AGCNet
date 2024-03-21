@@ -1,8 +1,8 @@
 ## 🤓 Qualitive comparison
-Input&nbsp;&nbsp;|Zero-DCE&nbsp;|EnlightenGAN|IAT&nbsp;&nbsp;|LCDP&nbsp;&nbsp;|**Ours**&nbsp;&nbsp;|GT&nbsp;&nbsp;|
+Input|Zero-DCE|*EnGAN|IAT|LCDPNet|**Ours**|GT|
 ---|---|---|---|---|---|---|
 ![lab_logo](./outputs/107_input.png) | ![lab_logo](./outputs/107_zero.png) | ![lab_logo](./outputs/107_engan.png) | ![lab_logo](./outputs/107_iat.png) | ![lab_logo](./outputs/107_lcdp.png) | ![lab_logo](./outputs/107_ours.png) | ![lab_logo](./outputs/107_gt.png)
-
+*EnGAN : EnlightenGAN
 
 
 **Abstract:** 
