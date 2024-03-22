@@ -1,7 +1,7 @@
 ## 🤓 Qualitive comparison
 |　Input　|　Zero-DCE　|EnGAN|　IAT　|LCDP|　**Ours**　|　GT　|
 |---|---|---|---|---|---|---|
-|![lab_logo](./outputs/107_input.png)|![lab_logo](./outputs/107_zero.png)|![lab_logo](./outputs/107_engan.png)|![lab_logo](./outputs/107_iat.png)|![lab_logo](./outputs/107_lcdp.png)|![lab_logo](./outputs/107_ours.png)|![lab_logo](./outputs/107_gt.png)|
+|![107_input](./outputs/107_input.png)|![107_zero](./outputs/107_zero.png)|![107_engan](./outputs/107_engan.png)|![107_iat](./outputs/107_iat.png)|![107_lcdp](./outputs/107_lcdp.png)|![107_ours](./outputs/107_ours.png)|![107_gt](./outputs/107_gt.png)|
 
 ## 📐 Quantitative comparison
 
