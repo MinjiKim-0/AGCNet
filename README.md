@@ -1,3 +1,10 @@
+## 🌗 AGCNet: Enhancing High-contrast Images with Automatic Gamma Correction
+### Min-ji Kim, QiKang Deng, DongWon Choo, Hyo Chul Ji and DoHoon Lee
+#### The 19th International Conference on Multimedia Information Technology and Applications (MITA) July, 2023. Ostrava, Czech.
+
+📃 Recently, I've worked on AGCNet+, the upgraded version of AGCNet. If you are curious about it, you can see [[my paper]](https://drive.google.com/file/d/1TKBZMFVfVYMIqAbaSJAm_g2ksuqNQff4/view?usp=sharing).
+🔑 Keywords: Automatic Gamma Correction Network(AGCNet), High-contrast Images, Illumination map, Closed Circuit Television(CCTV)
+
 ## 🤓 Qualitive comparison
 |　Input　|　Zero-DCE　|EnGAN|　IAT　|LCDP|　**Ours**　|　GT　|
 |---|---|---|---|---|---|---|
